@@ -9,10 +9,9 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	background-color: #c0e4eb;
-	/*background-image: url("resources\images\courses.png");*/
-	background-size: cover;
-	background-position: center;
+	/*background-color: #c0e4eb;*/
+	background-image: url("edu.jpeg");
+	background-size: 100vh;
 	background-repeat: no-repeat;
 }
 
@@ -51,7 +50,7 @@ a, .normal {
 
 a, .delete {
 	padding: 5px 10px;
-	background: #FF0000;
+	background: #d13434;
 	font-size: 1rem;
 	text-decoration: none;
 	color: #000000;
@@ -61,7 +60,7 @@ a, .delete {
 
 a, .update {
 	padding: 5px 10px;
-	background: #00FF00;
+	background: #279927;
 	font-size: 1rem;
 	text-decoration: none;
 	color: #000000;
